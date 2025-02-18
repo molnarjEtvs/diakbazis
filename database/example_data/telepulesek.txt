@@ -1,0 +1,10 @@
+1,Budapest
+2,Debrecen
+3,Szeged
+4,Miskolc
+5,Pécs
+6,Győr
+7,Nyíregyháza
+8,Kecskemét
+9,Székesfehérvár
+10,Eger
